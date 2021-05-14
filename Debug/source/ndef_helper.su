@@ -1,0 +1,5 @@
+ndef_helper.c:20:13:ndef_helper_WifiAuth	16	static
+ndef_helper.c:34:13:ndef_helper_WifiEnc	16	static
+ndef_helper.c:47:13:ndef_helper_UriHead	16	static
+ndef_helper.c:61:14:DetectNdefRecordType	40	static
+ndef_helper.c:177:16:GetNextRecord	24	static

@@ -1,0 +1,7 @@
+core_cm4.h:1677:22:__NVIC_EnableIRQ	16	static
+core_cm4.h:1805:22:__NVIC_SetPriority	16	static
+core_cm4.h:1827:26:__NVIC_GetPriority	16	static
+fsl_common.h:419:28:EnableIRQ	16	static
+fsl_port.h:415:20:PORT_SetPinInterruptConfig	24	static
+gpioint.c:26:6:PORTA_IRQHandler	16	static
+gpioint.c:50:6:BOARD_InitGPIOInterrupts	16	static

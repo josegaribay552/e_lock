@@ -1,0 +1,5 @@
+RW_NDEF.c:39:6:RW_NDEF_SetMessage	24	static
+RW_NDEF.c:56:6:RW_NDEF_RegisterPullCallback	16	static
+RW_NDEF.c:61:6:RW_NDEF_Reset	16	static
+RW_NDEF.c:96:6:RW_NDEF_Read_Next	32	static
+RW_NDEF.c:101:6:RW_NDEF_Write_Next	32	static

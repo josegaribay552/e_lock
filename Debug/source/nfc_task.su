@@ -1,0 +1,4 @@
+nfc_task.c:80:6:NdefPull_Cb	56	static
+nfc_task.c:350:6:displayCardInfo	32	static
+nfc_task.c:414:6:task_nfc_reader	48	static
+nfc_task.c:539:6:task_nfc	80	static

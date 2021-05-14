@@ -1,0 +1,8 @@
+core_cm4.h:1677:22:__NVIC_EnableIRQ	16	static
+core_cm4.h:1805:22:__NVIC_SetPriority	16	static
+fsl_clock.h:668:20:CLOCK_EnableClock	24	static
+fsl_common.h:419:28:EnableIRQ	16	static
+fsl_port.h:243:20:PORT_SetPinConfig	32	static
+fsl_port.h:346:20:PORT_SetPinMux	24	static
+fsl_port.h:415:20:PORT_SetPinInterruptConfig	24	static
+pin_mux.c:72:6:BOARD_InitPins	32	static

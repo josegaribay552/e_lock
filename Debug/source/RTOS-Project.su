@@ -1,0 +1,8 @@
+RTOS-Project.c:115:13:_cbSendSystemDesc	8	static
+RTOS-Project.c:124:6:SEGGER_SYSVIEW_Conf	8	static
+RTOS-Project.c:168:13:print_dhcp_state	32	static
+RTOS-Project.c:252:13:stack_init	48	static
+RTOS-Project.c:323:13:main_thread	16	static
+RTOS-Project.c:334:5:main	24	static
+RTOS-Project.c:403:13:keepalive_task	32	static
+RTOS-Project.c:430:5:SEGGER_SYSVIEW_X_GetTimestamp	16	static

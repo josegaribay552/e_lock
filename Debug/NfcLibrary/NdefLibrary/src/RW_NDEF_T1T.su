@@ -1,0 +1,2 @@
+RW_NDEF_T1T.c:49:6:RW_NDEF_T1T_Reset	4	static
+RW_NDEF_T1T.c:55:6:RW_NDEF_T1T_Read_Next	32	static

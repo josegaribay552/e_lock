@@ -1,0 +1,3 @@
+RW_NDEF_T2T.c:45:6:RW_NDEF_T2T_Reset	4	static
+RW_NDEF_T2T.c:51:6:RW_NDEF_T2T_Read_Next	32	static
+RW_NDEF_T2T.c:159:6:RW_NDEF_T2T_Write_Next	24	static

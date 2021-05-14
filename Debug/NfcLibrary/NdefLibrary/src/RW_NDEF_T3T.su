@@ -1,0 +1,3 @@
+RW_NDEF_T3T.c:44:6:RW_NDEF_T3T_Reset	4	static
+RW_NDEF_T3T.c:50:6:RW_NDEF_T3T_SetIDm	16	static
+RW_NDEF_T3T.c:56:6:RW_NDEF_T3T_Read_Next	24	static
